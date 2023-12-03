@@ -26,6 +26,6 @@
 ![swagger](https://github.com/hotspurs/hse-mlds-ml-hm1/raw/main/images/pred_items_1.jpeg)
 ![Работа сервиса](https://github.com/hotspurs/hse-mlds-ml-hm1/raw/main/images/pred_items_2.jpeg)
 
-В моем случае наибольшей буст в качестве дало добавление категориальных признаков.
+В моем случае наибольший буст в качестве дало добавление категориальных признаков.
 
 Не удалось провести `Feature Engineering`, а так же более точно подобрать оптимальные параметры регуляризации,  веса признаков не занулились.
