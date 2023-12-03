@@ -20,11 +20,11 @@
 
 Скрины работы сервиса
 ## /predict_item
-![swagger](https://github.com/hotspurs/hse-mlds-ml-hm1/raw/master/images/pred_item_1.jpeg)
-![Работа сервиса](https://github.com/hotspurs/hse-mlds-ml-hm1/raw/master/images/pred_item_2.jpeg)
+![swagger](https://github.com/hotspurs/hse-mlds-ml-hm1/raw/main/images/pred_item_1.jpeg)
+![Работа сервиса](https://github.com/hotspurs/hse-mlds-ml-hm1/raw/main/images/pred_item_2.jpeg)
 ## /predict_items
-![swagger](https://github.com/hotspurs/hse-mlds-ml-hm1/raw/master/images/pred_items_1.jpeg)
-![Работа сервиса](https://github.com/hotspurs/hse-mlds-ml-hm1/raw/master/images/pred_items_2.jpeg)
+![swagger](https://github.com/hotspurs/hse-mlds-ml-hm1/raw/main/images/pred_items_1.jpeg)
+![Работа сервиса](https://github.com/hotspurs/hse-mlds-ml-hm1/raw/main/images/pred_items_2.jpeg)
 
 В моем случае наибольшей буст в качестве дало добавление категориальных признаков.
 
